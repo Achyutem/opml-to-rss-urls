@@ -3,6 +3,6 @@
 
 ## How to use 
 - `npm i` 
-- have a opml file and renane it to `feeds.opml`
+- have a opml file and rename it to `feeds.opml`
 - `node extract.js`
 
