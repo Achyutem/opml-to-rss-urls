@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <body>
+    <outline title="Multi-Author Blogs" text="Multi-Author Blogs">
+      <outline type="rss" title="1stwebdesigner" text="1stwebdesigner" htmlUrl="https://1stwebdesigner.com/" xmlUrl="https://1stwebdesigner.com/feed/"/>
+      <outline type="rss" title="24 Accessibility" text="24 Accessibility" htmlUrl="https://www.24a11y.com/" xmlUrl="https://www.24a11y.com/feed/"/>
+      <outline type="rss" title="24 ways" text="24 ways" htmlUrl="https://24ways.org/" xmlUrl="https://feeds.feedburner.com/24ways"/>
+      <outline type="rss" title="30 seconds of code" text="30 seconds of code" htmlUrl="https://www.30secondsofcode.org/" xmlUrl="https://www.30secondsofcode.org/feed"/>
+      <outline type="rss" title="A List Apart: The Abridged Feed" text="A List Apart: The Abridged Feed" htmlUrl="https://alistapart.com/" xmlUrl="https://alistapart.com/main/feed/"/>
+      <outline type="rss" title="Bits and Pieces" text="Bits and Pieces" htmlUrl="https://blog.bitsrc.io/" xmlUrl="https://blog.bitsrc.io/feed"/>
+      <outline type="rss" title="CodeinWP" text="CodeinWP" htmlUrl="https://www.codeinwp.com/" xmlUrl="https://www.codeinwp.com/feed/"/>
+      <outline type="rss" title="CodyHouse" text="CodyHouse" htmlUrl="https://codyhouse.co/blog" xmlUrl="https://feeds.feedburner.com/codyhouse/feeds"/>
+      <outline type="rss" title="Deque Accessibility Blog" text="Deque Accessibility Blog" htmlUrl="https://www.deque.com/blog/" xmlUrl="https://www.deque.com/feed/"/>
+      <outline type="rss" title="Design Modo" text="Design Modo" htmlUrl="https://designmodo.com/" xmlUrl="https://designmodo.com/feed/"/>
+      <outline type="rss" title="DZone Web Dev" text="DZone Web Dev" htmlUrl="https://dzone.com/web-development-programming-tutorials-tools-news" xmlUrl="https://feeds.dzone.com/webdev"/>
+      <outline type="rss" title="CSS - Stack Overflow" text="CSS - Stack Overflow" htmlUrl="https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest"/>
+      <outline type="rss" title="JavaSript - Stack Overflow" text="JavaSript - Stack Overflow" htmlUrl="https://stackoverflow.com/questions/tagged/javascript" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest"/>
+      <outline type="rss" title="React - Stack Overflow" text="React - Stack Overflow" htmlUrl="https://stackoverflow.com/questions/tagged/reactjs" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=reactjs&amp;sort=newest"/>
+      <outline type="rss" title="Vue - Stack Overflow" text="Vue - Stack Overflow" htmlUrl="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest" xmlUrl="https://stackoverflow.com/feeds/tag?tagnames=vue.js&amp;sort=newest"/>
+      <outline type="rss" title="/r/css" text="/r/css" htmlUrl="https://www.reddit.com/r/css" xmlUrl="https://www.reddit.com/r/css.rss"/>
+      <outline type="rss" title="/r/javascript" text="/r/javascript" htmlUrl="https://www.reddit.com/r/javascript/" xmlUrl="https://www.reddit.com/r/javascript.rss"/>
+      <outline type="rss" title="/r/reactjs" text="/r/reactjs" htmlUrl="https://www.reddit.com/r/reactjs/" xmlUrl="https://www.reddit.com/r/reactjs.rss"/>
+      <outline type="rss" title="/r/vuejs" text="/r/vuejs" htmlUrl="https://www.reddit.com/r/vuejs/" xmlUrl="https://www.reddit.com/r/vuejs.rss"/>
+    </outline>
+  </body>
+</opml>
